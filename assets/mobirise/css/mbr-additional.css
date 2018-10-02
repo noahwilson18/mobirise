@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
 
@@ -50,7 +49,7 @@ body {
   font-size: 1.6rem;
 }
 .display-7 {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -655,7 +654,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Karla', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1756,10 +1755,10 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/edited-2000x1500.jpg");
+  background-image: url("../../../assets/images/adobestock-40426786-2000x1333.jpg");
 }
 .cid-qTkA127IK8 H1 {
-  color: #ffffff;
+  color: #767676;
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
@@ -4483,8 +4482,8 @@ body {
 }
 .cid-r4KHf44Vpf {
   padding-top: 135px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-2-1920x1440.jpg");
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/adobestock-213592217-preview-2-1000x714.jpg");
 }
 .cid-r4KHf44Vpf H1 {
   color: #ffffff;
@@ -4494,6 +4493,14 @@ body {
 }
 .cid-r4KHf44Vpf B {
   color: #ffffff;
+}
+.cid-r5jIyjXTjs {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r5jIyjXTjs .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-r4QBwM3Uc4 {
   padding-top: 75px;
